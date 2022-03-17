@@ -5,6 +5,7 @@ Studying :computer:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=TypeScript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white)
 
 
 <!--
