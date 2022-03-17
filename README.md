@@ -1,5 +1,10 @@
 ### Hi there 👋
+Studying :computer:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
 
 
 <!--
