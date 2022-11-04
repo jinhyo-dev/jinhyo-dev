@@ -3,7 +3,7 @@
 
 ### Contact :iphone:
 <a href="https://www.instagram.com/jinhyo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white"/></a>
-[![mail](https://img.shields.io/badge/jinhyo@jinhyo.dev-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:jinhyo@jinhyo.dev)
+[![mail](https://img.shields.io/badge/admin@jinhyo.dev-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:admin@jinhyo.dev)
 
 ### Studying :computer:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=round-square&logo=node.js&logoColor=white)
