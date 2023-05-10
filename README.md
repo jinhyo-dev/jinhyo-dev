@@ -23,7 +23,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
 
 ### Stats :muscle:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyo-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyo-dev&layout=compact&theme=tokyonight)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=434708143176548352)
 
 ![JINHYO's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhyo0850)
 
