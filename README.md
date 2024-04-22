@@ -2,7 +2,6 @@
 #### Student Frontend Developer, currently studying in Gyeongbuk Software High School, South Korea :kr:.
 
 ### Contact :iphone:
-<a href="https://www.instagram.com/jinhyo___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=round-square&logo=Instagram&logoColor=white"/></a>
 [![mail](https://img.shields.io/badge/admin@jinhyo.dev-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:admin@jinhyo.dev)
 
 ### Studying :computer:
