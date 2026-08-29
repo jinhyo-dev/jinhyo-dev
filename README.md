@@ -1,44 +1,53 @@
-### Contact :iphone:
-[![mail](https://img.shields.io/badge/admin@jinhyo.dev-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:admin@jinhyo.dev)
+<div align="center">
 
-### Studying :computer:
-![React.js](https://img.shields.io/badge/React.js-02569B?style=round-square&logo=React&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=round-square&logo=TypeScript&logoColor=white)
-![GO](https://img.shields.io/badge/GO-00ADD8?style=round-square&logo=Go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=round-square&logo=C%2B%2B&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=MariaDB&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=A371F7&center=true&vCenter=true&width=640&height=64&lines=Hi%2C+I%27m+Jinhyo+Kim;Web+%26+App+Developer;TypeScript+%C2%B7+Kotlin+%C2%B7+React">
+  <img alt="Hi, I'm Jinhyo Kim. Web & App Developer." src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=8250DF&center=true&vCenter=true&width=640&height=64&lines=Hi%2C+I%27m+Jinhyo+Kim;Web+%26+App+Developer;TypeScript+%C2%B7+Kotlin+%C2%B7+React">
+</picture>
 
-### Tools 🛠
-![Git](https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=white)
-![Intelij](https://img.shields.io/badge/IntelliJ-000000?style=round-square&logo=IntelliJIDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/vscode-007ACC?style=round-square&logo=VisualStudioCode&logoColor=white)
+Web & app developer. **React** and **TypeScript** on the front, **Kotlin** + **Spring Boot** on the back —<br>
+and at home on the server side too: **Docker**, **Kubernetes**, **AWS**, **Linux**.
 
-### Stats :muscle:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyo-dev&layout=compact&theme=tokyonight)
+Daegu, Korea &nbsp;·&nbsp; [jinhyo.dev](https://jinhyo.dev) &nbsp;·&nbsp; [admin@jinhyo.dev](mailto:admin@jinhyo.dev)
 
-![JINHYO's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhyo0850)
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jinhyo-dev&theme=chalk&row=2&column=5)
+## Stack
 
-[!JINHYO's github stats](https://github-readme-stats.vercel.app/api?username=jinhyo-dev&show_icons=true&theme=dracula)
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cjava&theme=dark"><img alt="TypeScript, JavaScript, Kotlin, Java" src="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Cjava&theme=light"></picture></td>
+  </tr>
+  <tr>
+    <td><b>Frontend / App</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctauri&theme=dark"><img alt="React, Next.js, Vite, Tauri" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctauri&theme=light"></picture></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring%2Cnodejs&theme=dark"><img alt="Spring Boot, Node.js" src="https://skillicons.dev/icons?i=spring%2Cnodejs&theme=light"></picture></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Credis&theme=dark"><img alt="MySQL / MariaDB, PostgreSQL, Redis" src="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Credis&theme=light"></picture></td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; DevOps</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Clinux%2Cnginx%2Cgithubactions&theme=dark"><img alt="Kubernetes, Docker, AWS, Linux, Nginx, GitHub Actions" src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Caws%2Clinux%2Cnginx%2Cgithubactions&theme=light"></picture></td>
+  </tr>
+  <tr>
+    <td><b>Also</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cpy&theme=dark"><img alt="Go, Python" src="https://skillicons.dev/icons?i=go%2Cpy&theme=light"></picture></td>
+  </tr>
+</table>
 
+## Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jinhyo-dev/jinhyo-dev/main/profile-3d-contrib/profile-dark.svg">
+  <img alt="3D contribution graph for the past year, with contribution radar and language breakdown" src="https://raw.githubusercontent.com/jinhyo-dev/jinhyo-dev/main/profile-3d-contrib/profile-light.svg" width="100%">
+</picture>
 
+<sub>Regenerated every day at 03:00 KST by [`profile-3d.yml`](.github/workflows/profile-3d.yml), using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).</sub>
 
-<!--
-**jinhyo-dev/jinhyo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- profile-3d-contrib/ is generated by the workflow above — don't edit those SVGs by hand. Theme lives in .github/profile-3d-settings.json -->
